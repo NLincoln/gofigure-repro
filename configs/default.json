@@ -1,0 +1,8 @@
+{
+  "*": {
+    "oneLevel": 1,
+    "parent": {
+      "twoLevels": 2
+    }
+  }
+}

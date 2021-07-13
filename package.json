@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "gofigure1": "npm:gofigure@1.0.0",
+    "gofigure2": "npm:gofigure@2.0.1"
+  }
+}
